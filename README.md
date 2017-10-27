@@ -2,7 +2,7 @@
   <br>
   <img height="256" width="256" src="https://github.com/nirooj56/WAR-app/blob/master/war-logo.png" alt="WAR">
   <br>
-  Nepdict Desktop
+  WAR web-app
   <br>
   <a href="https://github.com/nirooj56/nepdict/blob/master/Licence"><img src="https://img.shields.io/github/license/nirooj56/nepdict.svg" alt="Release"></a>
   <br>
