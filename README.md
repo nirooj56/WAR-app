@@ -18,4 +18,3 @@ This project started as a concept and remained one. Never got around to completi
 * **Name**: Nirooj Bista
 * **Website**: http://www.nirojbista.com.np
 * **E-mail**: info@nirojbista.com.np
-* **[Facebook](https://www.facebook.com/niroj56) - [Twitter](https://www.twitter.com/nirooj56) - [Google+](https://plus.google.com/+bistanirooj) - [Linkedin](https://www.linkedin.com/in/nirooj56)**
