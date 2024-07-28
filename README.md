@@ -10,6 +10,9 @@
 
 A conceptual new webapp created by using Python Django. It is just a idea and i'm working on it. More updates will be coming soon.
 
+## NOTICE 
+This project started as a concept and remained one. Never got around to completing it.
+
 ## Contact
 
 * **Name**: Nirooj Bista
